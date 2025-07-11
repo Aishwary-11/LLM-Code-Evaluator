@@ -7,9 +7,7 @@
 
 An advanced, command-line tool for evaluating the performance of Large Language Models (LLMs) on coding problems. This framework systematically tests model-generated code against a predefined set of challenges, providing detailed metrics on correctness, performance, and other key characteristics.
 
-![Demo Screenshot](https://i.imgur.<img width="1680" height="199" alt="Screenshot 2025-07-11 161248" src="https://github.com/user-attachments/assets/41501a2b-f0c4-433a-8822-b38fb738ecd1" />
-com/example-image.png)  <!-- It's highly recommended to replace this with an actual screenshot of your tool in action -->
-
+(https://i.imgur.<img width="1680" height="199" alt="Screenshot 2025-07-11 161248" src="https://github.com/user-attachments/assets/41501a2b-f0c4-433a-8822-b38fb738ecd1" /> 
 ## Table of Contents
 
 - [Features](#features)
